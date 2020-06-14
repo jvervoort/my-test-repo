@@ -1,0 +1,3 @@
+Hi there, from feature 2
+
+And a change
